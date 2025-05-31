@@ -1,0 +1,9 @@
+{
+    "name": "chel/app",
+    "autoload": {
+        "psr-4": {
+            "Chel\\App\\": "src/"
+        }
+    },
+    "require": {}
+}
